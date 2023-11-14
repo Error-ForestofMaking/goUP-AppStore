@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "goUP AppStore", "goUP AppStore\goUP AppStore.csproj", "{80EC803B-4295-4E66-817D-0B6AF1A56E30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "goUP AppStore 설치관리자", "goUP AppStore 설치관리자\goUP AppStore 설치관리자.csproj", "{915139A4-7C87-4907-8BBE-54B65CFBA758}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "goUP AppStore 업데이트", "goUP AppStore 업데이트\goUP AppStore 업데이트.csproj", "{AD99C033-55B8-4533-AE8B-16592DE42E4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80EC803B-4295-4E66-817D-0B6AF1A56E30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80EC803B-4295-4E66-817D-0B6AF1A56E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80EC803B-4295-4E66-817D-0B6AF1A56E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80EC803B-4295-4E66-817D-0B6AF1A56E30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{915139A4-7C87-4907-8BBE-54B65CFBA758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{915139A4-7C87-4907-8BBE-54B65CFBA758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{915139A4-7C87-4907-8BBE-54B65CFBA758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{915139A4-7C87-4907-8BBE-54B65CFBA758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD99C033-55B8-4533-AE8B-16592DE42E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD99C033-55B8-4533-AE8B-16592DE42E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD99C033-55B8-4533-AE8B-16592DE42E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD99C033-55B8-4533-AE8B-16592DE42E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C147B61C-E6F8-4BF1-BDE0-43A631CF7528}
+	EndGlobalSection
+EndGlobal

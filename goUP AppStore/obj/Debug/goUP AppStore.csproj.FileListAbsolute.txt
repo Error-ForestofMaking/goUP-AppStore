@@ -1,0 +1,11 @@
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP AppStore\goUP AppStore\bin\Debug\goUP AppStore.exe.config
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP AppStore\goUP AppStore\bin\Debug\goUP AppStore.exe
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP AppStore\goUP AppStore\bin\Debug\goUP AppStore.pdb
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP AppStore\goUP AppStore\obj\Debug\goUP AppStore.csproj.AssemblyReference.cache
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP AppStore\goUP AppStore\obj\Debug\goUP_AppStore.Properties.Resources.resources
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP AppStore\goUP AppStore\obj\Debug\goUP AppStore.csproj.GenerateResource.cache
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP AppStore\goUP AppStore\obj\Debug\goUP AppStore.csproj.CoreCompileInputs.cache
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP AppStore\goUP AppStore\obj\Debug\goUP AppStore.exe
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP AppStore\goUP AppStore\obj\Debug\goUP AppStore.pdb
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP AppStore\goUP AppStore\obj\Debug\goUP_AppStore.main.resources
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP AppStore\goUP AppStore\obj\Debug\goUP_AppStore.update.resources
